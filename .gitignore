@@ -1,0 +1,14 @@
+# OS / editor noise
+Thumbs.db
+Desktop.ini
+.DS_Store
+.vscode/
+.idea/
+
+# Vercel CLI
+.vercel/
+
+# Never commit the Invite Studio here - this repo is public.
+# The studio holds the guest-link encoder and the sign-in hash.
+studio/
+card.html
